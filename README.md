@@ -1,0 +1,2 @@
+# Hotel-Booking-Cancellation-Prediction-Using-EDA-and-Model-Evaluation-Finetunning
+This project aims to develop a predictive model to identify hotel bookings at risk of cancellation. By leveraging historical booking data, the model provides actionable insights to Hotel Haven, a luxury hotel chain, enabling them to optimize resource allocation, reduce revenue loss from cancellations, and enhance overall customer satisfaction.
