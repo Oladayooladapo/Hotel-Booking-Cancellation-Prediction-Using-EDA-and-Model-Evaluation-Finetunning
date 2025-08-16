@@ -158,6 +158,6 @@ To further enhance the model and derive deeper insights:
 
 ## Files in this Repository
 
--   `ML Capstone Project-Con Env.ipynb`: The main Jupyter Notebook containing all the code for data loading, cleaning, EDA, feature engineering, model training, and evaluation.
+-   `House Price Prediction - Supervised Learning (Regression).ipynb`: The main Jupyter Notebook containing all the code for data loading, cleaning, EDA, feature engineering, model training, and evaluation.
 -   `booking.csv`: The raw dataset used for the project.
 -   `README.md`: This file.
