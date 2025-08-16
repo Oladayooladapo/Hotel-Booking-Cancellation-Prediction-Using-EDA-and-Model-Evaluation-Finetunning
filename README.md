@@ -160,4 +160,5 @@ To further enhance the model and derive deeper insights:
 
 -   `House Price Prediction - Supervised Learning (Regression).ipynb`: The main Jupyter Notebook containing all the code for data loading, cleaning, EDA, feature engineering, model training, and evaluation.
 -   `booking.csv`: The raw dataset used for the project.
+-   `booking_corrected.csv`: The cleaned, encoded, scaled and balanced dataset used for learning.
 -   `README.md`: This file.
